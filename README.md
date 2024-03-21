@@ -1,7 +1,7 @@
 - 🌝 Hi, I’m @SRG4000
 - 🧠 I’m interested in evolution and devolution
 - 🌱 I’m currently learning general computer development
-- 🔍 I’m looking to collaborate on development of mods
+- 🔍 I’m looking to collaborate on development of mods (for minecraft)
 - 😄 Pronouns: he/him (ele/dele)
 - ⚡ Fun fact: sou trouxa
 
